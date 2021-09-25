@@ -1,0 +1,36 @@
+.segment__benzina{
+    --color:#00c853;
+    --color-checked:#464646;
+    --background-checked:#00c853;
+    --indicator-color:#00c853;
+}
+
+.segment__diesel{
+    --color:#304ffe;
+    --color-checked:#464646;
+    --background-checked:#304ffe;
+    --indicator-color:#304ffe;
+}
+
+.segment__gpl{
+    --color:#aa00ff;
+    --color-checked:#464646;
+    --background-checked:#aa00ff;
+    --indicator-color:#aa00ff;
+}
+.segment__metano{
+    --color:#ffd600;
+    --color-checked:#464646;
+    --background-checked:#ffd600;
+    --indicator-color:#ffd600;
+}
+.tab__map{
+    --color-selected:#00c853;
+    --ripple-color:#00c853;
+}
+
+.tab__stations{
+    --color-selected:#304ffe;
+    --ripple-color:#304ffe;
+}
+
